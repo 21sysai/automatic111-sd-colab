@@ -235,7 +235,7 @@ def start_ui():
         favicon_path='html/logo.ico',
         app_kwargs={
             "version": f'0.0.{installer.git_commit}',
-            "title": "SD.Next",
+            "title": "21sysai",
             "description": "SD.Next",
             "docs_url": "/docs",
             "redocs_url": "/redocs",
